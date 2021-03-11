@@ -20,8 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e11c930-e8ca-42c1-9671-9f82edd2cd09" name="Default Changelist" comment="first commit test">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_exec/xlrd_exec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_exec/xlrd_exec01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncode/demo" beforeDir="false" afterPath="$PROJECT_DIR$/pythoncode/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncode/outoofsingle/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncode/outoofsingle/country.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncode/outoofsingle/girl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncode/outoofsingle/send.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncode/outoofsingle/show.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,10 +94,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1372" y="100" width="1094" height="1207" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1615479316440" />
+    <state x="1700" y="459" key="FileChooserDialogImpl" timestamp="1615480525998">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1700" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1615480525998" />
     <state x="1512" y="437" key="Vcs.Push.Dialog.v2" timestamp="1615478987178">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1512" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1615478987178" />
+    <state x="1372" y="100" width="1094" height="1207" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1615480530817">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1372" y="100" width="1094" height="1207" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1615480530817" />
     <state x="1717" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615479082350">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
