@@ -1,0 +1,23 @@
+cat:
+  name :
+    Kitty
+  color :
+    Pink
+  age :
+    2
+  gender :
+    Female
+  hair :
+    长毛
+
+dog:
+  name :
+    Nathy
+  color :
+    Yellow
+  age :
+    1
+  gender :
+    Male
+  hair :
+    短毛
